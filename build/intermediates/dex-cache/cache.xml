@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Work\Personal\DXFViewer\app\build\intermediates\exploded-aar\DXFViewer\dxfview\unspecified\jars\libs\kabeja-0.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d17e31e63e941c2b1f3009725af67511571a96b7">
+        <dex dex="D:\Work\Personal\DXFViewer\app\build\intermediates\pre-dexed\debug\kabeja-0.4_7d3fd3119ac40485d7cf5f1651d0fcab833483b5.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Work\Personal\DXFViewer\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_85f3ff9a7deeee8ecfa9ae74ce4eb77d5e3ba26c.jar" />
+    </item>
+    <item
+        jar="D:\Work\Personal\DXFViewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Work\Personal\DXFViewer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_5ad628369601fdbd25d8d382c10b89bd9859dd4e.jar" />
+    </item>
+    <item
+        jar="D:\Work\Personal\DXFViewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Work\Personal\DXFViewer\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_61231c0ffe107e29eee6761b180545e8eafc5ff9.jar" />
+    </item>
+    <item
+        jar="D:\Work\Personal\DXFViewer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Work\Personal\DXFViewer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_6e7ebe38e5a9ebca3bd5fb1710b1b7f881101f14.jar" />
+    </item>
+    <item
+        jar="D:\Work\Personal\DXFViewer\app\build\intermediates\exploded-aar\DXFViewer\dxfview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f5c32c9c30f438866eefb69ce2a4ffe1ed98e765">
+        <dex dex="D:\Work\Personal\DXFViewer\app\build\intermediates\pre-dexed\debug\DXFViewer-dxfview-unspecified_92b2c753af87699bdd8e5ce568d63e00dea16291.jar" />
+    </item>
+
+</items>

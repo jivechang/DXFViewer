@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work\\Personal\\DXFViewer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Work\\Personal\\DXFViewer\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Personal\\AudoCADViewer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Work\\Personal\\AudoCADViewer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Personal\\AudoCADViewer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Work\\Personal\\AudoCADViewer\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Personal\\DXFViewer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Work\\Personal\\DXFViewer\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
